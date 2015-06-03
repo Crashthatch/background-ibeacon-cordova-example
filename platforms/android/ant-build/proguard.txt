@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:6
+-keep class io.cordova.hellocordova.CordovaApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class org.altbeacon.beacon.BeaconIntentProcessor { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class org.altbeacon.beacon.service.BeaconService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.altbeacon.beacon.startup.StartupBroadcastReceiver { <init>(...); }
+
